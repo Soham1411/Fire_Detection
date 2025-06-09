@@ -135,6 +135,7 @@ def alert():
 ---
 
 ## 📊 Result Images
+
 <p align="center">
   <img src="results.png" width="600"/>
   <br>
@@ -145,6 +146,15 @@ def alert():
   <img src="labels_correlogram.jpg" width="400"/>
   <br>
   <em> Figure 2: Distribution and correlation heatmap of bounding box labels — showing normalized x, y, width, and height values from the fire detection dataset. </em>
+</p>
+
+<p align="center">
+  <img src="fire.jpg" width="45%" />
+  <img src="fire1.jpg" width="45%" />
+</p>
+
+<p align="center">
+  <em>Figure 3: Results </em>
 </p>
 
 ---
